@@ -8,6 +8,18 @@ The Medallion fund's main strategy is to maintain a market neutral portfolio and
 
 Around 2004, Medallion's returns were both impressive and consistent but the size of Medallion was a growing concern at RenTech. Simons was of the belief that if Medallion got any bigger, its trading would start to do more harm than good. So in order to continue expanding, RIEF and RIDA were formed. RIEF and RIDA are equity funds and they primarily use the long term predicitive signals that Medallion had no use for. It also accepted the clients Medallion would not and had investors flocking to it, with an inital investment of 14 billion dollars. RIEF and RIDA use more traditional finance strategies, such as buying low and selling high and it's triggers stem more from balance sheet data. RIEF and RIDA are primarily intended for pension funds and large institutions. 
 
+---
+-*The Man Who Solved the Market, Gregory Zuckerman*
+
+-*https://www.streetofwalls.com/finance-training-courses/quantitative-hedge-fund-training/quant-firms/*
+
+-*https://www.rentec.com/Careers.action?computerProgrammer=true*
+
+-*https://en.wikipedia.org/wiki/Renaissance_Technologies*
+
+-*https://corporatefinanceinstitute.com/resources/risk-management/sharpe-ratio-definition-formula/*
+
+-*https://robotwealth.com/renaissance-medallion-performance/*
 
 
 
